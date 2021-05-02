@@ -2,7 +2,7 @@
 ### Hi there, I'm Joel! 👋
 - 📚 I'm currently studying my second year of Computer and Information Engineering at [Uppsala University][ituuse]
 - 🔭 I'm currently looking for a job related to Computer Science in any way.
-- ⚡ Fun fact: I love working with video encoding problems and different types of video containers.
+- ⚡ I love learning new things and am always looking for new opportunities to grow!
 
 [![Website](https://img.shields.io/website?label=joelsiks.com&style=for-the-badge&url=http%3A%2F%2Fjoelsiks.se)](http://joelsiks.com/)
 
