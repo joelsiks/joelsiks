@@ -1,10 +1,10 @@
 
 ### Hi there, I'm Joel! 👋
-- 📚 I'm currently studying my second year of Computer and Information Engineering at [Uppsala University][ituuse]
+- 📚 I'm currently studying my third year of Computer and Information Engineering at [Uppsala University][ituuse]
 - 🔭 I'm currently looking for a job related to Computer Science in any way.
 - ⚡ I love learning new things and am always looking for new opportunities to grow!
 
-[![Website](https://img.shields.io/website?label=joelsiks.com&style=for-the-badge&url=http%3A%2F%2Fjoelsiks.se)](http://joelsiks.com/)
+[![Website](https://img.shields.io/website?label=joelsiks.com&style=for-the-badge&url=https://joelsiks.com)](http://joelsiks.com/)
 
 ### Connect with me:
 [<img align="left" alt="joelsiks.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
